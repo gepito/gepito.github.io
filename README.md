@@ -6,4 +6,7 @@ Currently I'm thinking about a distributed security system, consisting of solar 
 
 I've been also inspired by spark eroding, when I've heard about not too long ago. It would be great to make some experiments with!
 
+I have some smal irrigation systems around me, so I may grow flowers at my weekend house's balkony  where I have souringly few time to be present. My experience is that there aren't reliable moisture sensors available - at least there are no affordable ones. This must be changed in the near future too :)
+
+
 Many more coming - when time permitting...
