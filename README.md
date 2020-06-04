@@ -1,4 +1,4 @@
-## Welcome to G-Epito's _github_ page
+## Welcome to G-Epito's __github__ page
 
 Besides developing both hardware and software for automotive test systems I have some side projects which are or aren't be related to my daily occupation.
 
