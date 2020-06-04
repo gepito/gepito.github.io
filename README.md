@@ -4,4 +4,6 @@ Besides developing both hardware and software for automotive test systems I have
 
 Currently I'm thinking about a distributed security system, consisting of solar powered sensor nodes and camera nodes with covert hub providing storage and access functionality.
 
+I've been also inspired by spark eroding, when I've heard about not too long ago. It would be great to make some experiments with!
+
 Many more coming - when time permitting...
