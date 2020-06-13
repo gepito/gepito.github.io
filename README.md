@@ -10,6 +10,6 @@ I have some smal irrigation systems around me, so I may grow flowers at my weeke
 
 ### Inspire me :)
 
-I wonder how many are interested in my [software design principles](g-epito.hu/software-design)
+I wonder how many are interested in my [software design principles](http://g-epito.hu/software-design)
 
 Many more coming - when time permitting...
